@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "build": "1",
+  "channel": "alpha",
+  "minimumSystemVersion": "26.0",
+  "bundleIdentifier": "com.engaze.macsweep",
+  "productName": "MacSweep",
+  "commandName": "macsweep",
+  "releaseTag": "v0.1.0",
+  "releaseTitle": "MacSweep 0.1.0 (alpha)",
+  "releasesRepository": "PrerakGada/macsweep-releases",
+  "homebrewVersion": "0.1.0",
+  "cask": "macsweep",
+  "assets": {
+    "dmg": "MacSweep-0.1.0.dmg",
+    "zip": "MacSweep-0.1.0.zip"
+  }
+}
